@@ -1,6 +1,6 @@
-# Some academic posters I used.
+# Not so awesome academic posters
 
-I share them as a reference. You can start with them to build your awesome poster. 
+Here I share some acaemic posters I used. They are not so awesome but work to the degree I survived the conference poster session. You can start with them to build your own awesome posters. 
 
 * Poster for CVPR'15 paper
 ![poster1](poster_cvpr15_CAM.jpg)
