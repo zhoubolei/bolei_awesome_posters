@@ -22,4 +22,13 @@ Here I share some acaemic posters I used. They are not so awesome but work to th
 ![poster5](poster_cvpr18_netdissect.jpg)
 [download pptx](http://netdissect.csail.mit.edu/poster/poster_v3.pptx)
 
+* Poster for NeurIPS'22 paper (36x48).
+![poster6](poster_neurips22_policydissect.jpg)
+[download pptx](poster_neurips22_policydissect.pptx?raw=true)
+
+* Poster for NeurIPS'22 paper (36x48).
+![poster7](poster_neurips22_dynamicd.jpg)
+[download pptx](poster_neurips22_dynamicd.pptx?raw=true)
+
+
 FYI: The posters above were presented at some conferences in person. So they used to be printed out with height as 1 meter. If you will present poster online like Gatherly, you might have to significantly increase the font size and reduce the density of the content!
