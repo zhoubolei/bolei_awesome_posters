@@ -1,6 +1,8 @@
 # Not so awesome academic posters
 
-Here I share some acaemic posters I used. They are not so awesome but work to the degree I survived the conference poster session. You can start with them to build your own awesome posters. 
+Here I share some acaemic posters I used over the years. They are not awesome but work, I survived the conference poster sessions. Feel free to start with them to build your own awesome posters. 
+
+** A tip for poster presentations **: Think of the poster session as a crowded bazaar, where it is difficult for the audience to stop by and hear your awesome research patiently. So please try to make poster presentation concise and highlight the core contributions, so the audience will be interested in taking a note and read your paper back home. Ideally, you should finish presenting the poster in less than 5 min (I usually aim for 3 min), otherwise it will be too long. In that sense, you know how much content you should put in a poster. Good luck, and if you find this poster repo useful, say hi to me next time you meet me at any poster session! 
 
 * Poster for CVPR'15 paper
 ![poster1](poster_cvpr15_CAM.jpg)
@@ -18,7 +20,7 @@ Here I share some acaemic posters I used. They are not so awesome but work to th
 ![poster4](poster_eccv18_upernet.jpg)
 [download pptx](poster_eccv18_upernet.pptx?raw=true)
 
-* Poster for CVPR'18 paper. This poster is mainly designed by David Bau. I think the font size is bit small and the content is bit too dense.
+* Poster for CVPR'18 paper. This poster is mainly designed by David Bau. I think the font size is a bit small and the content is too dense.
 ![poster5](poster_cvpr18_netdissect.jpg)
 [download pptx](http://netdissect.csail.mit.edu/poster/poster_v3.pptx)
 
